@@ -1,13 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/basics/classes/Classes.java" line="157" />
-    <bookmark url="file://$PROJECT_DIR$/src/basics/classes/LambdaExpressions.java" line="344" />
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d618492-94fb-48d4-9c49-c26c2aa44263" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="9d618492-94fb-48d4-9c49-c26c2aa44263" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaTutorials.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaTutorials.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/annotations/Annotations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/basics/annotations/Annotations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/classes/Classes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/basics/classes/Classes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/classes/EnumTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/basics/classes/EnumTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/classes/Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/basics/classes/Inheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/classes/Interfaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/basics/classes/Interfaces.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/classes/LambdaExpressions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/basics/classes/LambdaExpressions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/classes/NestedClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/basics/classes/NestedClasses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/control_flow/ControlFlow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/basics/control_flow/ControlFlow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/generics/Generics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/basics/generics/Generics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/operators/Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/basics/operators/Operators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/packages/Packages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/basics/packages/Packages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/variables/Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/basics/variables/Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/variables/PrimitiveTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/basics/variables/PrimitiveTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics/variables/SimpleObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/basics/variables/SimpleObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/ArrayListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/collections/ArrayListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/collections/Interfaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/collections/Interfaces.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/essential/basicio/FileIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/essential/basicio/FileIO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/essential/basicio/IOStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/essential/basicio/IOStreams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/essential/concurrency/GuardedBlocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/essential/concurrency/GuardedBlocks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/essential/concurrency/ImmutableObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/essential/concurrency/ImmutableObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/essential/concurrency/Liveness.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/essential/concurrency/Liveness.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/essential/concurrency/SimpleThreads.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/essential/concurrency/SimpleThreads.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/essential/concurrency/Synchronization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/essential/concurrency/Synchronization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/essential/concurrency/ThreadObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/essential/concurrency/ThreadObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/essential/concurrency/high_level/AtomicVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/essential/concurrency/high_level/AtomicVariables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/essential/concurrency/high_level/ConcurrentCollections.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/essential/concurrency/high_level/ConcurrentCollections.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/essential/concurrency/high_level/ExecutorsAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/essential/concurrency/high_level/ExecutorsAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/essential/concurrency/high_level/ForkJoinFramework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/essential/concurrency/high_level/ForkJoinFramework.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/essential/concurrency/high_level/LockObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/essential/concurrency/high_level/LockObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/essential/exceptions/Exceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/essential/exceptions/Exceptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/essential/platform_environment/ConfigurationUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/essential/platform_environment/ConfigurationUtilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/essential/platform_environment/SystemUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/essential/platform_environment/SystemUtilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/essential/regular_expressions/MatcherExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tutorial/essential/regular_expressions/MatcherExample.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,200 +69,25 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="JavaTutorials" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/collections/ArrayListDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/essential/basicio/FileIO.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/basics/classes/Classes.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3318">
-              <caret line="256" selection-start-line="256" selection-end-line="256" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/basics/annotations/Annotations.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="644">
-              <caret line="48" selection-start-line="48" selection-end-line="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/basics/generics/Generics.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/basics/operators/Operators.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="28">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/collections/Interfaces.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="490">
-              <caret line="37" column="26" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/essential/concurrency/high_level/ExecutorsAPI.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/essential/concurrency/high_level/LockObjects.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="17" selection-start-column="8" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaTutorials.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Interface" />
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>TestStringAndInteger</find>
-      <find>lastUpdateDate</find>
-      <find>introduceInfo</find>
-      <find>LocalClassExample</find>
-      <find>DataStructure</find>
-      <find>HelloWorldAnonymousClasses</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>TestIntegerToString</replace>
-      <replace>lastConstructDate</replace>
-      <replace>INTRODUCE_INFO</replace>
-      <replace>LocalClass</replace>
-      <replace>InnerClass</replace>
-      <replace>AnonymousClass</replace>
-    </replaceStrings>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/helloworld.java" />
-        <option value="$PROJECT_DIR$/src/PrimitiveType.java" />
-        <option value="$PROJECT_DIR$/src/PrimitiveDataTypes.java" />
-        <option value="$PROJECT_DIR$/src/SimpleDataObjects.java" />
-        <option value="$PROJECT_DIR$/src/Arrays.java" />
-        <option value="$PROJECT_DIR$/src/ArraysObject.java" />
-        <option value="$PROJECT_DIR$/src/variables/ArraysObject.java" />
-        <option value="$PROJECT_DIR$/src/basics/operators/variables/Arrays.java" />
-        <option value="$PROJECT_DIR$/src/basics/control_flow_statements/SwitchStatement.java" />
-        <option value="$PROJECT_DIR$/src/basics/classes/RosterTest.java" />
-        <option value="$PROJECT_DIR$/src/basics/classes/Person.java" />
-        <option value="$PROJECT_DIR$/src/basics/Generics/Generics.java" />
-        <option value="$PROJECT_DIR$/src/basics/packages/Packages.kt" />
-        <option value="$PROJECT_DIR$/src/essential/Exceptions.java" />
-        <option value="$PROJECT_DIR$/byte_in.txt" />
-        <option value="$PROJECT_DIR$/stream_in.txt" />
-        <option value="$PROJECT_DIR$/src/essential/concurrency/SimpleThreads.java" />
-        <option value="$PROJECT_DIR$/src/essential/concurrency/Synchronization.java" />
-        <option value="$PROJECT_DIR$/src/essential/concurrency/Liveness.java" />
-        <option value="$PROJECT_DIR$/src/essential/concurrency/GuardedBlocks.java" />
-        <option value="$PROJECT_DIR$/src/essential/concurrency/ImmutableObjects.java" />
-        <option value="$PROJECT_DIR$/src/essential/concurrency/ThreadObjects.java" />
-        <option value="$PROJECT_DIR$/src/essential/concurrency/high_level/LockObjects.java" />
-        <option value="$PROJECT_DIR$/src/essential/concurrency/high_level/Executors.java" />
-        <option value="$PROJECT_DIR$/src/essential/concurrency/high_level/ExecutorsAPI.java" />
-        <option value="$PROJECT_DIR$/src/essential/concurrency/high_level/ForkJoinFramework.java" />
-        <option value="$PROJECT_DIR$/src/essential/concurrency/high_level/ConcurrentCollections.java" />
-        <option value="$PROJECT_DIR$/src/essential/concurrency/high_level/AtomicVariables.java" />
-        <option value="$PROJECT_DIR$/src/essential/platform_environment/ConfigurationUtilities.java" />
-        <option value="$PROJECT_DIR$/src/essential/platform_environment/SystemUtilities.java" />
-        <option value="$PROJECT_DIR$/src/essential/regular_expressions/MatcherExample.java" />
-        <option value="$PROJECT_DIR$/src/collections/Interfaces.java" />
-        <option value="$PROJECT_DIR$/src/basics/classes/Classes.java" />
-        <option value="$PROJECT_DIR$/src/basics/variables/PrimitiveTypes.java" />
-        <option value="$PROJECT_DIR$/src/basics/variables/Arrays.java" />
-        <option value="$PROJECT_DIR$/src/basics/classes/NestedClasses.java" />
-        <option value="$PROJECT_DIR$/src/basics/classes/LambdaExpressions.java" />
-        <option value="$PROJECT_DIR$/src/basics/classes/Interfaces.java" />
-        <option value="$PROJECT_DIR$/src/basics/classes/Inheritance.java" />
-        <option value="$PROJECT_DIR$/src/basics/classes/EnumTypes.java" />
-        <option value="$PROJECT_DIR$/src/basics/packages/Packages.java" />
-        <option value="$PROJECT_DIR$/src/basics/operators/Operators.java" />
-        <option value="$PROJECT_DIR$/src/basics/annotations/Annotations.java" />
-        <option value="$PROJECT_DIR$/src/basics/control_flow/ControlFlow.java" />
-        <option value="$PROJECT_DIR$/src/basics/generics/Generics.java" />
-        <option value="$PROJECT_DIR$/src/basics/variables/SimpleObjects.java" />
-        <option value="$PROJECT_DIR$/src/essential/basicio/FileIO.java" />
-        <option value="$PROJECT_DIR$/src/essential/basicio/IOStreams.java" />
-        <option value="$PROJECT_DIR$/src/essential/exceptions/Exceptions.java" />
-        <option value="$PROJECT_DIR$/src/collections/ArrayListDemo.java" />
-        <option value="$PROJECT_DIR$/module_javatutorials.xml" />
-      </list>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/imssyang/JavaTutorials" />
+      </set>
     </option>
   </component>
   <component name="MavenImportPreferences">
@@ -222,188 +97,48 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand />
-      <select />
-    </treeState>
+  <component name="ProjectId" id="1hf9t48eroDH5eTGx7SFihyrInz" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1676" />
-    <option name="width" value="1697" />
-    <option name="height" value="1447" />
-  </component>
-  <component name="ProjectView">
-    <navigator currentView="Scope" currentSubView="Scope 'Production'; set:Production; class com.intellij.psi.search.scope.ProjectProductionScope" proportions="" version="1">
-      <showMembers ProjectPane="true" />
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="JavaTutorials" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTutorials" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaTutorials" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaTutorials" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="essential" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaTutorials" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="essential" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrency" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaTutorials" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaTutorials" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="essential" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrency" type="462c0819:PsiDirectoryNode" />
-              <item name="high_level" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Scope 'Production'; set:Production; class com.intellij.psi.search.scope.ProjectProductionScope">
-          <expand>
-            <path>
-              <item name="JavaTutorials" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="JavaTutorials" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="JavaTutorials" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="JavaTutorials" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-        <subPane subId="Scope 'Problems'; set:Problems; class com.intellij.psi.search.scope.ProblemsScope">
-          <expand>
-            <path>
-              <item name="JavaTutorials" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="JavaTutorials" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-            </path>
-            <path>
-              <item name="JavaTutorials" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="JavaTutorials" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="JavaTutorials" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="JavaTutorials" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="essential" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="JavaTutorials" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="JavaTutorials" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="essential" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="basicio" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="JavaTutorials" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="JavaTutorials" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="essential" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="basicio" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="FileIO" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="JavaTutorials" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="JavaTutorials" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="essential" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="concurrency" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="JavaTutorials" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="JavaTutorials" type="2674bda8:ScopeViewTreeModel$GroupNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="essential" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="concurrency" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="high_level" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="JavaTutorials" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="O:\10-Project\_samples\JavaTutorials" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-            <path>
-              <item name="JavaTutorials" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="O:\10-Project\_samples\JavaTutorials" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="JavaTutorials" type="58d84e3e:PackageViewProjectNode" />
-              <item name="JavaTutorials" type="616d4139:PackageViewModuleNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="GenerateAntBuildDialog.backupFiles" value="true" />
     <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
     <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="javatutorials" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="D:/00-svn/KIMP/FreeSwitchCall" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propDebugger" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="example.TypeConvert" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="basics" />
     </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="effective.g6enum_annotation" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="O:\30-Project\_sample\JavaTutorials\src\jcip\examples" />
+    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.Classes">
-    <configuration name="ArrayListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.ArrayListDemo" />
+  <component name="RunManager" selected="Application.String2Boolean">
+    <configuration name="CompletableFutureTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.Future.CompletableFutureTest" />
       <module name="JavaTutorials" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.*" />
+          <option name="PATTERN" value="example.Future.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -411,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayListDemo" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="collections.ArrayListDemo" />
+    <configuration name="FinalizeEscapeGC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="garbage_collection.FinalizeEscapeGC" />
       <module name="JavaTutorials" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.*" />
+          <option name="PATTERN" value="garbage_collection.weakreference.Test1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -424,12 +159,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Classes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics.classes.Classes" />
+    <configuration name="MatcherDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.Regex.MatcherDemo" />
       <module name="JavaTutorials" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basics.classes.*" />
+          <option name="PATTERN" value="example.Regex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -437,12 +172,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleObjects (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics.variables.SimpleObjects" />
+    <configuration name="String2Boolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.TypeConvert.String2Boolean" />
       <module name="JavaTutorials" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basics.variables.*" />
+          <option name="PATTERN" value="example.TypeConvert.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -450,40 +185,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleObjects (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="basics.variables.SimpleObjects" />
+    <configuration name="StringInternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="garbage_collection.StringInternDemo" />
       <module name="JavaTutorials" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="basics.variables.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SimpleObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics.variables.SimpleObjects" />
-      <module name="JavaTutorials" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basics.variables.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SimpleObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basics.variables.SimpleObjects" />
-      <module name="JavaTutorials" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="basics.variables.*" />
+          <option name="PATTERN" value="garbage_collection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -492,22 +199,23 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ArrayListDemo" />
-      <item itemvalue="Application.Classes" />
-      <item itemvalue="Application.SimpleObjects (1)" />
-      <item itemvalue="Application.SimpleObjects (2)" />
-      <item itemvalue="Application.SimpleObjects" />
+      <item itemvalue="Application.FinalizeEscapeGC" />
+      <item itemvalue="Application.MatcherDemo" />
+      <item itemvalue="Application.StringInternDemo" />
+      <item itemvalue="Application.CompletableFutureTest" />
+      <item itemvalue="Application.String2Boolean" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Classes" />
-        <item itemvalue="Application.ArrayListDemo" />
-        <item itemvalue="Application.SimpleObjects (2)" />
-        <item itemvalue="Application.SimpleObjects (1)" />
-        <item itemvalue="Application.SimpleObjects" />
+        <item itemvalue="Application.String2Boolean" />
+        <item itemvalue="Application.MatcherDemo" />
+        <item itemvalue="Application.CompletableFutureTest" />
+        <item itemvalue="Application.StringInternDemo" />
+        <item itemvalue="Application.FinalizeEscapeGC" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -521,153 +229,168 @@
     </task>
     <servers />
   </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="1676" y="0" width="1697" height="1447" extended-state="1" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7716895" visible="true" weight="0.15882713" />
-      <window_info id="Structure" order="1" sideWeight="0.2283105" side_tool="true" visible="true" weight="0.15882713" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Learn" order="6" sideWeight="0.49467275" weight="0.3290362" />
-      <window_info id="Favorites" order="7" sideWeight="0.507378" side_tool="true" weight="0.17715333" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32952815" />
-      <window_info anchor="bottom" id="Debug" order="2" sideWeight="0.49786195" weight="0.31506848" />
-      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49539596" weight="0.25722983" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49969307" weight="0.32952815" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49969307" weight="0.3289977" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50460404" side_tool="true" weight="0.25722983" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49969307" weight="0.24048707" />
-      <window_info anchor="bottom" id="Dependency Viewer" order="11" visible="true" weight="0.32952815" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.24907975" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" weight="0.3290362" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.3296501" />
-    </layout>
+  <component name="WindowStateProjectService">
+    <state x="-1345" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608000650571">
+      <screen x="-1920" y="0" width="1843" height="1080" />
+    </state>
+    <state x="-1345" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1843.1080/0.0.1843.1080@-1920.0.1843.1080" timestamp="1608000650571" />
+    <state x="1224" y="295" key="#com.intellij.ide.util.MemberChooser" timestamp="1608169415692">
+      <screen x="0" y="0" width="1843" height="1080" />
+    </state>
+    <state x="1224" y="295" key="#com.intellij.ide.util.MemberChooser/-1920.0.1843.1080/0.0.1843.1080@0.0.1843.1080" timestamp="1608169415692" />
+    <state width="1800" height="166" key="GridCell.Tab.0.bottom" timestamp="1615876663786">
+      <screen x="0" y="0" width="1843" height="1080" />
+    </state>
+    <state width="1435" height="232" key="GridCell.Tab.0.bottom/-1920.0.1843.1080/0.0.1843.1080@-1920.0.1843.1080" timestamp="1608205384884" />
+    <state width="1800" height="166" key="GridCell.Tab.0.bottom/-1920.0.1843.1080/0.0.1843.1080@0.0.1843.1080" timestamp="1615876663786" />
+    <state width="1800" height="166" key="GridCell.Tab.0.center" timestamp="1615876663786">
+      <screen x="0" y="0" width="1843" height="1080" />
+    </state>
+    <state width="1435" height="232" key="GridCell.Tab.0.center/-1920.0.1843.1080/0.0.1843.1080@-1920.0.1843.1080" timestamp="1608205384884" />
+    <state width="1800" height="166" key="GridCell.Tab.0.center/-1920.0.1843.1080/0.0.1843.1080@0.0.1843.1080" timestamp="1615876663786" />
+    <state width="1800" height="166" key="GridCell.Tab.0.left" timestamp="1615876663786">
+      <screen x="0" y="0" width="1843" height="1080" />
+    </state>
+    <state width="1435" height="232" key="GridCell.Tab.0.left/-1920.0.1843.1080/0.0.1843.1080@-1920.0.1843.1080" timestamp="1608205384884" />
+    <state width="1800" height="166" key="GridCell.Tab.0.left/-1920.0.1843.1080/0.0.1843.1080@0.0.1843.1080" timestamp="1615876663786" />
+    <state width="1800" height="166" key="GridCell.Tab.0.right" timestamp="1615876663786">
+      <screen x="0" y="0" width="1843" height="1080" />
+    </state>
+    <state width="1435" height="232" key="GridCell.Tab.0.right/-1920.0.1843.1080/0.0.1843.1080@-1920.0.1843.1080" timestamp="1608205384884" />
+    <state width="1800" height="166" key="GridCell.Tab.0.right/-1920.0.1843.1080/0.0.1843.1080@0.0.1843.1080" timestamp="1615876663786" />
+    <state width="1800" height="411" key="GridCell.Tab.1.bottom" timestamp="1615444083999">
+      <screen x="0" y="0" width="1843" height="1080" />
+    </state>
+    <state width="1800" height="411" key="GridCell.Tab.1.bottom/-1920.0.1843.1080/0.0.1843.1080@0.0.1843.1080" timestamp="1615444083999" />
+    <state width="1800" height="411" key="GridCell.Tab.1.center" timestamp="1615444083999">
+      <screen x="0" y="0" width="1843" height="1080" />
+    </state>
+    <state width="1800" height="411" key="GridCell.Tab.1.center/-1920.0.1843.1080/0.0.1843.1080@0.0.1843.1080" timestamp="1615444083999" />
+    <state width="1800" height="411" key="GridCell.Tab.1.left" timestamp="1615444083999">
+      <screen x="0" y="0" width="1843" height="1080" />
+    </state>
+    <state width="1800" height="411" key="GridCell.Tab.1.left/-1920.0.1843.1080/0.0.1843.1080@0.0.1843.1080" timestamp="1615444083999" />
+    <state width="1800" height="411" key="GridCell.Tab.1.right" timestamp="1615444083999">
+      <screen x="0" y="0" width="1843" height="1080" />
+    </state>
+    <state width="1800" height="411" key="GridCell.Tab.1.right/-1920.0.1843.1080/0.0.1843.1080@0.0.1843.1080" timestamp="1615444083999" />
+    <state x="548" y="265" key="run.anything.popup" timestamp="1608206605047">
+      <screen x="0" y="0" width="1843" height="1080" />
+    </state>
+    <state x="548" y="265" key="run.anything.popup/-1920.0.1843.1080/0.0.1843.1080@0.0.1843.1080" timestamp="1608206605047" />
+    <state x="-1447" y="299" width="672" height="678" key="search.everywhere.popup" timestamp="1608000715491">
+      <screen x="-1920" y="0" width="1843" height="1080" />
+    </state>
+    <state x="-1447" y="299" width="672" height="678" key="search.everywhere.popup/-1920.0.1843.1080/0.0.1843.1080@-1920.0.1843.1080" timestamp="1608000715491" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/basics/annotations/Annotations.java</url>
+          <url>file://$PROJECT_DIR$/src/tutorial/basics/annotations/Annotations.java</url>
           <line>166</line>
-          <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/essential/concurrency/ThreadObjects.java</url>
+          <url>file://$PROJECT_DIR$/src/tutorial/essential/concurrency/ThreadObjects.java</url>
           <line>54</line>
-          <properties />
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/essential/concurrency/ThreadObjects.java</url>
+          <url>file://$PROJECT_DIR$/src/tutorial/essential/concurrency/ThreadObjects.java</url>
           <line>69</line>
-          <properties />
           <option name="timeStamp" value="15" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/essential/concurrency/ThreadObjects.java</url>
+          <url>file://$PROJECT_DIR$/src/tutorial/essential/concurrency/ThreadObjects.java</url>
           <line>49</line>
-          <properties />
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/essential/concurrency/ImmutableObjects.java</url>
+          <url>file://$PROJECT_DIR$/src/tutorial/essential/concurrency/ImmutableObjects.java</url>
           <line>128</line>
-          <properties />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/essential/concurrency/high_level/LockObjects.java</url>
+          <url>file://$PROJECT_DIR$/src/tutorial/essential/concurrency/high_level/LockObjects.java</url>
           <line>40</line>
-          <properties />
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/essential/concurrency/high_level/LockObjects.java</url>
+          <url>file://$PROJECT_DIR$/src/tutorial/essential/concurrency/high_level/LockObjects.java</url>
           <line>43</line>
-          <properties />
           <option name="timeStamp" value="21" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/essential/concurrency/high_level/LockObjects.java</url>
+          <url>file://$PROJECT_DIR$/src/tutorial/essential/concurrency/high_level/LockObjects.java</url>
           <line>56</line>
-          <properties />
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/essential/concurrency/high_level/LockObjects.java</url>
+          <url>file://$PROJECT_DIR$/src/tutorial/essential/concurrency/high_level/LockObjects.java</url>
           <line>60</line>
-          <properties />
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/essential/concurrency/high_level/LockObjects.java</url>
+          <url>file://$PROJECT_DIR$/src/tutorial/essential/concurrency/high_level/LockObjects.java</url>
           <line>62</line>
-          <properties />
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/essential/concurrency/high_level/LockObjects.java</url>
+          <url>file://$PROJECT_DIR$/src/tutorial/essential/concurrency/high_level/LockObjects.java</url>
           <line>75</line>
-          <properties />
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/essential/concurrency/high_level/LockObjects.java</url>
+          <url>file://$PROJECT_DIR$/src/tutorial/essential/concurrency/high_level/LockObjects.java</url>
           <line>66</line>
-          <properties />
           <option name="timeStamp" value="28" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/example/Regex/MatcherDemo.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/basics/classes/Classes.java</url>
+          <url>file://$PROJECT_DIR$/src/tutorial/basics/classes/Classes.java</url>
           <line>193</line>
-          <properties class="basics.classes.Classes.Polygon">
+          <properties class="tutorial.basics.classes.Classes.Polygon">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/essential/concurrency/high_level/ExecutorsAPI.java</url>
+          <url>file://$PROJECT_DIR$/src/tutorial/essential/concurrency/high_level/ExecutorsAPI.java</url>
           <line>182</line>
-          <properties class="essential.concurrency.high_level.ExecutorsAPI.ExecutorTask" method="main">
+          <properties class="tutorial.essential.concurrency.high_level.ExecutorsAPI.ExecutorTask" method="main">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/essential/platform_environment/ConfigurationUtilities.java</url>
+          <url>file://$PROJECT_DIR$/src/tutorial/essential/platform_environment/ConfigurationUtilities.java</url>
           <line>97</line>
-          <properties class="essential.platform_environment.ConfigurationUtilities" method="main">
+          <properties class="tutorial.essential.platform_environment.ConfigurationUtilities" method="main">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/basics/variables/SimpleObjects.java</url>
+          <url>file://$PROJECT_DIR$/src/tutorial/basics/variables/SimpleObjects.java</url>
           <line>374</line>
-          <properties class="basics.variables.SimpleObjects" method="main">
+          <properties class="tutorial.basics.variables.SimpleObjects" method="main">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="31" />
@@ -675,406 +398,10 @@
       </breakpoints>
     </breakpoint-manager>
   </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
-    <buildFile url="file://$PROJECT_DIR$/javatutorials.xml">
-      <targetFilters>
-        <filter targetName="register.custom.compilers" isVisible="false" />
-        <filter targetName="init" isVisible="true" />
-        <filter targetName="clean" isVisible="true" />
-        <filter targetName="build.modules" isVisible="true" />
-        <filter targetName="all" isVisible="true" />
-        <filter targetName="compile.module.javatutorials" isVisible="true" />
-        <filter targetName="compile.module.javatutorials.production" isVisible="true" />
-        <filter targetName="compile.module.javatutorials.tests" isVisible="true" />
-        <filter targetName="clean.module.javatutorials" isVisible="true" />
-      </targetFilters>
-      <expanded value="true" />
-    </buildFile>
-    <buildFile url="file://$PROJECT_DIR$/module_javatutorials.xml">
-      <targetFilters>
-        <filter targetName="compile.module.javatutorials" isVisible="true" />
-        <filter targetName="compile.module.javatutorials.production" isVisible="true" />
-        <filter targetName="compile.module.javatutorials.tests" isVisible="true" />
-        <filter targetName="clean.module.javatutorials" isVisible="true" />
-      </targetFilters>
-      <expanded value="true" />
-    </buildFile>
-  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/learnjava$PrimitiveDataTypesDemo.ic" NAME="PrimitiveDataTypesDemo Coverage Results" MODIFIED="1563201431438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/JavaTutorials$ConfigurationUtilities.ic" NAME="ConfigurationUtilities Coverage Results" MODIFIED="1567355298421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>essential.platform_environment.*</FILTER>
     </SUITE>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/io/Serializable.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/concurrent/ForkJoinTask.java" />
-    <entry file="file://$PROJECT_DIR$/OutFile.txt" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/concurrent/SynchronousQueue.java" />
-    <entry file="file://$PROJECT_DIR$/src/essential/concurrency/ImmutableObjects.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1343">
-          <caret line="83" selection-start-line="83" selection-end-line="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/lang/System.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/regex/Matcher.java" />
-    <entry file="file://$PROJECT_DIR$/src/essential/concurrency/GuardedBlocks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2176">
-          <caret line="132" column="1" selection-start-line="132" selection-start-column="1" selection-end-line="132" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/essential/concurrency/high_level/ConcurrentCollections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
-          <caret line="55" column="44" selection-start-line="55" selection-start-column="44" selection-end-line="55" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/essential/concurrency/high_level/AtomicVariables.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-          <folding>
-            <element signature="e#505#506#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/essential/platform_environment/SystemUtilities.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/appProperties" />
-    <entry file="file://$PROJECT_DIR$/src/essential/concurrency/high_level/ForkJoinFramework.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1139">
-          <caret line="75" selection-start-line="75" selection-end-line="75" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/Collections.java" />
-    <entry file="file://$PROJECT_DIR$/index-files/index-1.html" />
-    <entry file="file://$PROJECT_DIR$/src/basics/variables/PrimitiveTypes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="82" column="4" selection-start-line="82" selection-start-column="4" selection-end-line="82" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/concurrent/ExecutorService.java" />
-    <entry file="file://$PROJECT_DIR$/src/essential/platform_environment/ConfigurationUtilities.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="43" column="9" lean-forward="true" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/essential/regular_expressions/MatcherExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/basics/variables/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/basics/packages/Packages.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
-          <caret line="70" selection-start-line="70" selection-end-line="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/io/ObjectOutputStream.java" />
-    <entry file="file://$PROJECT_DIR$/src/basics/classes/NestedClasses.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2652">
-          <caret line="162" column="23" selection-start-line="162" selection-start-column="23" selection-end-line="162" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/basics/classes/LambdaExpressions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7565">
-          <caret line="463" selection-start-line="463" selection-end-line="463" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/basics/classes/Interfaces.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2142">
-          <caret line="138" selection-start-line="138" selection-end-line="138" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/basics/classes/Inheritance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6477">
-          <caret line="397" selection-start-line="397" selection-end-line="397" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/basics/classes/EnumTypes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1292">
-          <caret line="82" column="46" selection-start-line="82" selection-start-column="46" selection-end-line="82" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/basics/control_flow/ControlFlow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
-          <caret line="96" selection-start-line="96" selection-end-line="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.xml" />
-    <entry file="file://$PROJECT_DIR$/javatutorials_Wed_Sep_04_09-13-24_PDT_2019.xml" />
-    <entry file="file://$PROJECT_DIR$/myfile" />
-    <entry file="file://$PROJECT_DIR$/out/production/JavaTutorials/collections/Interfaces.class" />
-    <entry file="file://$PROJECT_DIR$/out/production/JavaTutorials/collections/ArrayListDemo.class" />
-    <entry file="file://$PROJECT_DIR$/src/basics/variables/SimpleObjects.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="331" column="26" selection-start-line="331" selection-start-column="26" selection-end-line="331" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javatutorials.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="100" column="4" selection-start-line="100" selection-start-column="4" selection-end-line="100" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javatutorials.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module_javatutorials.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="18" column="57" selection-start-line="18" selection-start-column="57" selection-end-line="18" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/essential/basicio/IOStreams.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="241" selection-start-line="241" selection-end-line="241" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/essential/concurrency/SimpleThreads.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/essential/exceptions/Exceptions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="146" selection-start-line="146" selection-end-line="146" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/collections/ArrayListDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/essential/basicio/FileIO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/basics/classes/Classes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3318">
-          <caret line="256" selection-start-line="256" selection-end-line="256" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/basics/annotations/Annotations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/basics/generics/Generics.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/basics/operators/Operators.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/collections/Interfaces.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="37" column="26" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/essential/concurrency/high_level/ExecutorsAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/essential/concurrency/high_level/LockObjects.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="8" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaTutorials.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>Detection</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>JavaTutorials</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
